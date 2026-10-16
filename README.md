@@ -2,7 +2,7 @@
 
 A single-file, ~200-line **code-first agent loop** — built for *reading and learning*, not production use. It shows the whole agent loop (call LLM → parse code → execute → observe → repeat) in one file with no framework.
 
-> ⚠️ Educational only. Do not use for real work. No real production-grade sandboxing — it's a teaching tool for understanding how agent harnesses work under the hood.
+>  Educational only. it is not use for real work. No real production-grade sandboxing — it's a teaching tool for understanding how agent harnesses work under the hood.
 
 ## What it does
 
